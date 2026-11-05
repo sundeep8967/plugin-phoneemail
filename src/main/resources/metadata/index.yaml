@@ -1,8 +1,8 @@
-group: io.kestra.plugin.templates
-name: "template"
-title: "Template"
-description: "Plugin template for Kestra"
+group: io.kestra.plugin.phoneemail
+name: "phoneemail"
+title: "Phone.email"
+description: "Tasks for verifying phone numbers and user identity with Phone.email"
 body: ""
 videos: []
-createdBy: "Kestra Core Team"
-managedBy: "Kestra Core Team"
+createdBy: "Kestra Community"
+managedBy: "Kestra Community"
